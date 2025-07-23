@@ -26,10 +26,18 @@ let booleanLogedIn = Boolean(loggedIn)  // Conversion line // Boolean = Conversi
 // "" => false
 // "Omkar" => true
 
-let somenumber = 543
+// let somenumber = 543
 
-let stringNumber = String(somenumber)
-console.log(somenumber);
-console.log(typeof stringNumber);
+// let stringNumber = String(somenumber)
+// console.log(somenumber);
+// console.log(typeof stringNumber);
+
+
+// let value = 3;
+// let negvalue = -value;
+
+// console.log(negvalue);
+
+// console.log(2**3);  2 to the power 3
 
 
